@@ -1,0 +1,197 @@
+0 unspecified
+1 cerebrospinal system
+ 10 unspecified
+ 11 central nervous system
+ 110 unspecified
+ 111 metencephalon, cerebrum
+ 112 mesencephalon,
+ diencephalon
+ 113 neurohypophysis,
+ posterior pituitary gland
+ 114 cerebellum
+ 115 pons
+ 116 medulla oblongata
+ 117 spinal cord, cervical
+ 118 spinal cord, thoracic
+ 119 spinal cord, lumbal
+ 11a spinal cord, sacral
+ (cauda equina)
+ 12 sense organs 
+ 120 unspecified
+ 121 vestibular sense
+ 122 hearing sense
+ 123 gustatory sense
+ 124 tactile sense
+ 125 vision sense
+ 126 olfactory sense
+ 13 vegetative nervous system
+ 130 unspecified
+ 131 sympathic chain
+ 132 glomus jugulare
+ 133 glomus caroticum
+ 134 ganglion stellatum
+ 135 ganglion coeliacum
+ 136 organ of Zuckerkandl
+ 137 adrenal medulla 
+
+2 cardiovascular system
+ 20 unspecified
+ 21 heart
+ 210 unspecified
+ 211 pericardium
+ 212 atrium
+ 213 mitral valve
+ 214 tricuspidal valve
+ 215 ventricle
+ 216 aortic valve
+ 217 pulmonary valve
+ 22 arteries
+ 220 unspecified
+ 221 ascending aorta
+ 222 aortic arche
+ 223 brachiocephalic trunk
+ 224 common carotic artery
+ 225 botalli ligament &
+ ductus arteriosus
+ 226 descending aorta
+ 227 bronchial trunk
+ 228 abdominal aorta
+ 229 celiac trunk
+ 22a common iliac artery
+ 22b other arteries
+ 23 veins
+ 230 unspecified
+ 231 anonymus vein
+ 232 brachiocephalic vein
+ 233 superior vena cava
+ 234 inferior vena cava
+ 235 common iliac vein
+ 236 other veins 
+3 respiratory system
+ 30 unspecified
+ 31 nose
+ 32 sinuses
+ 33 nasopharynx & epipharynx 
+ 34 mesopharynx
+ 35 hypopharynx
+ 36 larynx
+ 37 trachea
+ 38 main bronchus
+ 39 bronchi
+ 3a lung
+ 3b pleura
+ 3c ribs
+ 3d diaphragma
+ 3e intercostal muscles
+
+4 gastrointestinal system
+ 40 unspecfied
+ 41 oropharynx
+ 410 unspecified
+ 411 oral cavity
+ 412 epipharynx
+ 413 mesopharynx
+ 414 hypopharynx
+ 42 esophagus
+ 420 unspecified
+ 421 upper esophagus sphincter
+ 422 upper third
+ 423 middle third
+ 424 lower third
+ 425 lower esophagus sphincter
+ 43 stomach
+ 430 unspecified
+ 431 cardia
+ 432 fundus
+ 433 corpus
+ 434 antrum
+ 435 pylorus
+ 44 small intestine
+ 440 unspecified
+ 441 duodenum
+ 442 jejunum
+ 443 ileum
+ 444 terminal ileum
+ 445 ileoceocal valve
+ 45 large intestine
+ 450 unspecified
+ 451 ascending colon
+ 452 transverse colon
+ 453 descending colon
+ 454 sigmoid colon
+ 455 rectum
+ 46 appendix
+ 47 anus
+ 48 liver
+ 480 unspecified
+ 481 parenchyma
+ 482 bile ducts
+ 483 portal vein
+ 484 arteries
+ 485 veins
+ 49 biliary system
+ 490 unspecified
+ 491 bile ducts
+ 492 gallbladder
+ 4a salivary glands
+ 4a0 unspecified
+ 4a1 parotic gland
+ 4a2 sublingual gland
+ 4a3 mandibular gland
+ 4a4 pancreas 
+
+5 uropoietic system
+ 50 unspecified
+ 51 kidney
+ 510 unspecified
+ 511 parenchyma
+ 512 renal pelvis
+ 52 ureter
+ 53 urinary bladder
+ 54 urethra
+
+6 reproductive system
+ 60 unspecified
+ 61 male system
+ 610 unspecified
+ 611 testes
+612 deferent duct &
+ seminal vesicle
+ 613 prostate gland
+ 614 penis
+ (incl. corpus cavernosum)
+ 62 female system
+ 620 unspecified
+ 621 ovaries
+ 622 tuba uterina
+ 623 uterus
+ 624 vagina
+ 625 breast
+
+7 musculosceletal system
+8 endocrinic system
+ 80 unspecified
+ 81 thyroid gland
+ 82 parathyroid gland
+ 83 adrenal gland
+ 84 pituitary gland
+ 85 hypothalamus
+ 86 ovaries
+ 87 testes
+ 88 pancreas
+9 immunic system
+ 90 unspecified
+ 91 tonsils
+ 92 cervial lymph node
+ 93 axillary lymph node 
+ 94 mediastinal lymph node
+ 95 thymus
+ 96 spleen
+ 97 retroperitoneal lymph node
+ 98 intraperitoneal lymph node
+ 980 unspecified
+ 981 mesenterial lymph node
+ 99 iliac lymph node
+ 9a inguinal lymph node
+ 9b bone marrow
+a dermal system 
