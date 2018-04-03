@@ -1,0 +1,143 @@
+0 unspecified
+1 whole body
+ 10 unspecified
+ 11 torso
+ 12 extremities
+2 cranium
+ 20 unspecified
+ 21 facial cranium
+ 210 unspecified
+ 211 forehead
+ 212 eye area
+ 213 nose area
+ 214 maxilla
+ 215 mandible
+ 216 temporo mandibular area
+ 22 cranial base
+ 220 unspecified
+ 221 petrous bone
+ 222 sella
+ 23 neuro cranium
+ 230 unspecified
+ 231 frontal area
+ 232 parietal area
+ 233 occipital area
+3 spine
+ 30 unspecified
+ 31 cervical spine
+ 310 unspecified
+ 311 dens
+ 312 axis
+ 313 upper cervical spine
+ 314 lower cervical spine
+ 32 thoracic spine
+ 320 unspecified
+ 321 cervico-thoracic conjunction
+ 322 upper thoracic spine
+ 323 middle thoracic spine
+ 324 lower thoracic spine
+ 33 lumbar spine
+ 330 unspecified
+ 331 thoraco-lumbar conjunction
+ 332 upper lumbar spine
+ 333 lower lumbar spine
+ 34 sacral bone
+ 340 unspecified
+ 341 lumbo-sacral conjunction
+ 35 coccygeal bone
+4 upper extremity / arm
+ 40 unspecified
+ 41 hand
+ 410 unspecified
+ 411 finger
+ 412 middle hand
+ 413 carpal bones
+ 42 radio carpal joint
+448 Proc. of SPIE Vol. 5033
+ 43 forearm
+ 430 unspecified
+ 431 distal forearm
+ 432 proximal forearm
+ 44 elbow
+ 45 upper arm
+ 450 unspecified
+ 451 distal upper arm
+ 452 proximal upper arm
+ 46 shoulder
+ 460 unspecified
+ 461 scapula
+ 462 humero-scapular joint
+ 463 acromio-scapula joint
+5 chest
+ 50 unspecified
+ 51 bones
+ 510 unspecified
+ 511 clavicle
+ 512 sternoclavicle region
+ 513 sternum
+ 514 upper ribs
+ 515 lower ribs
+ 52 lung
+ 520 unspecified
+ 521 upper lobe
+ 522 middle lobe
+ 523 lower lobe
+ 53 hilum
+ 54 mediastinum
+ 540 unspecified
+ 541 anterior mediastinum
+ 542 middle mediastinum
+ 543 posterior mediastinum
+ 55 heart
+ 56 diaphragm
+6 breast (mamma)
+7 abdomen
+ 70 unspecified
+ 71 upper abdomen
+ 710 unspecified
+ 711 upper right quadrant
+ 712 upper middle quadrant
+ 713 upper left quadrant
+ 72 middle abdomen
+ 720 unspecified
+ 721 middle right abdomen
+ 722 peri navel region
+ 723 middle left quadrant
+ 73 lower abdomen
+ 730 unspecified
+ 731 lower right quadrant
+ 732 lower middle quadrant
+ 733 lower left quadrant
+8 pelvis
+ 80 unspecified
+ 81 sarcral bone
+ 810 unspecified
+ 811 iliosacral-junction
+ 82 iliac bone
+ 83 pubic bone
+ 830 unspecified
+ 831 symphysis
+ 84 small pelvis
+ 840 unspecified
+ 841 sacral bone
+ 842 ischial bone
+9 lower extremity / leg
+ 90 unspecified
+ 91 foot
+ 910 unspecified
+ 911 toe
+ 912 middle foot
+ 913 tarsal bones
+ 92 ankle joint
+ 93 lower leg
+ 930 unspecified
+ 931 distal lower leg
+ 932 proximal lower leg
+ 94 knee
+ 940 unspecified
+ 941 patella
+ 95 upper leg
+ 950 unspecified
+ 951 distal upper leg
+ 952 proximal upper leg
+ 96 hip 
