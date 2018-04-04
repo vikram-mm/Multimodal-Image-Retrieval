@@ -15,6 +15,7 @@ sift = cv2.xfeatures2d.SIFT_create()
 for image_path in os.listdir(data_path):
             
             #count+=1
+	    
             image = cv2.imread(os.path.join(data_path,image_path))
             # kp = sift.detect(image,None)
             #print kp
@@ -31,6 +32,8 @@ for image_path in os.listdir(data_path):
                 if des is not None:
                     
                     image_paths.append(os.path.join(data_path,image_path))
+		    print os.path.join(data_path,image_path)
+		    exit(0)
 
             except Exception as e:
 
