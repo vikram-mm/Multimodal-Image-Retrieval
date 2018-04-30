@@ -1,0 +1,312 @@
+Loading lda object from : cache/lda.pkl
+Done!
+Vocab Size :  272 Number of Images :  12669
+Dict len:  12669
+12669
+Loading image paths from : cache/paths.pkl
+Done!
+(12669,)
+query class  29
+total relavant:  129
+query  0  AP :  0.102216150027 NDGC :  0.476584750384 p5 : 0.2, p10 : 0.1, p20 : 0.15
+query class  36
+total relavant:  86
+query  1  AP :  0.0962432350533 NDGC :  0.409712026925 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  18
+total relavant:  208
+query  2  AP :  0.103549434792 NDGC :  0.491514946864 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  11
+total relavant:  269
+query  3  AP :  0.107626843658 NDGC :  0.526315288575 p5 : 0.2, p10 : 0.2, p20 : 0.1
+query class  11
+total relavant:  269
+query  4  AP :  0.107592359917 NDGC :  0.521186134068 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  2
+total relavant:  1042
+query  5  AP :  0.164533571336 NDGC :  0.682074844046 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  16
+total relavant:  224
+query  6  AP :  0.104303177716 NDGC :  0.499756481808 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  38
+total relavant:  84
+query  7  AP :  0.096968469412 NDGC :  0.406832695103 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  11
+total relavant:  269
+query  8  AP :  0.107668570143 NDGC :  0.521697373387 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  10
+total relavant:  279
+query  9  AP :  0.11018917333 NDGC :  0.526358375728 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  2
+total relavant:  1042
+query  10  AP :  0.164814828138 NDGC :  0.690233471283 p5 : 0.4, p10 : 0.2, p20 : 0.1
+query class  12
+total relavant:  265
+query  11  AP :  0.110152117093 NDGC :  0.53426960127 p5 : 0.2, p10 : 0.1, p20 : 0.1
+query class  49
+total relavant:  39
+query  12  AP :  0.0935948482353 NDGC :  0.355715449829 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  3
+total relavant:  563
+query  13  AP :  0.147326348233 NDGC :  0.652694857873 p5 : 0.2, p10 : 0.1, p20 : 0.1
+query class  10
+total relavant:  279
+query  14  AP :  0.110541163309 NDGC :  0.526008918052 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  8
+total relavant:  300
+query  15  AP :  0.109868976838 NDGC :  0.538599290105 p5 : 0.2, p10 : 0.1, p20 : 0.1
+query class  50
+total relavant:  37
+query  16  AP :  0.0941940865404 NDGC :  0.35534629989 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  5
+total relavant:  365
+query  17  AP :  0.113576197921 NDGC :  0.552778513407 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  2
+total relavant:  1042
+query  18  AP :  0.165857493142 NDGC :  0.691950470076 p5 : 0.4, p10 : 0.3, p20 : 0.15
+query class  24
+total relavant:  138
+query  19  AP :  0.101396451888 NDGC :  0.459410312378 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  11
+total relavant:  269
+query  20  AP :  0.107713253468 NDGC :  0.521337618672 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  2
+total relavant:  1042
+query  21  AP :  0.165887638567 NDGC :  0.686449430318 p5 : 0.2, p10 : 0.1, p20 : 0.1
+query class  5
+total relavant:  365
+query  22  AP :  0.113254597787 NDGC :  0.551433509374 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  22
+total relavant:  139
+query  23  AP :  0.101385404517 NDGC :  0.451656439301 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  40
+total relavant:  78
+query  24  AP :  0.0969993035186 NDGC :  0.407977418951 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  7
+total relavant:  303
+query  25  AP :  0.109147800652 NDGC :  0.533973069472 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  3
+total relavant:  563
+query  26  AP :  0.146594294795 NDGC :  0.652687259455 p5 : 0.2, p10 : 0.2, p20 : 0.1
+query class  1
+total relavant:  3584
+query  27  AP :  0.322900280054 NDGC :  0.843991626157 p5 : 0.6, p10 : 0.5, p20 : 0.4
+query class  2
+total relavant:  1042
+query  28  AP :  0.16622931013 NDGC :  0.686143572772 p5 : 0.2, p10 : 0.1, p20 : 0.1
+query class  3
+total relavant:  563
+query  29  AP :  0.147566418986 NDGC :  0.651686494405 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  14
+total relavant:  242
+query  30  AP :  0.105739769907 NDGC :  0.505179093727 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  12
+total relavant:  265
+query  31  AP :  0.110419241005 NDGC :  0.542006692834 p5 : 0.4, p10 : 0.2, p20 : 0.15
+query class  22
+total relavant:  139
+query  32  AP :  0.101881880834 NDGC :  0.462225340582 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  12
+total relavant:  265
+query  33  AP :  0.111200808869 NDGC :  0.543587113993 p5 : 0.4, p10 : 0.2, p20 : 0.15
+query class  10
+total relavant:  279
+query  34  AP :  0.110845853243 NDGC :  0.532435171641 p5 : 0.2, p10 : 0.2, p20 : 0.1
+query class  1
+total relavant:  3584
+query  35  AP :  0.322693057035 NDGC :  0.844577091326 p5 : 0.4, p10 : 0.3, p20 : 0.3
+query class  1
+total relavant:  3584
+query  36  AP :  0.322931058745 NDGC :  0.845167592967 p5 : 0.4, p10 : 0.5, p20 : 0.45
+query class  3
+total relavant:  563
+query  37  AP :  0.150107688 NDGC :  0.655778822594 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  1
+total relavant:  3584
+query  38  AP :  0.322581236255 NDGC :  0.843699327628 p5 : 0.4, p10 : 0.4, p20 : 0.4
+query class  1
+total relavant:  3584
+query  39  AP :  0.322893408561 NDGC :  0.843771522576 p5 : 0.4, p10 : 0.5, p20 : 0.35
+query class  3
+total relavant:  563
+query  40  AP :  0.147646273164 NDGC :  0.656026894708 p5 : 0.2, p10 : 0.1, p20 : 0.15
+query class  7
+total relavant:  303
+query  41  AP :  0.109360148483 NDGC :  0.531003595768 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  17
+total relavant:  213
+query  42  AP :  0.107418495855 NDGC :  0.515127962928 p5 : 0.2, p10 : 0.1, p20 : 0.15
+query class  1
+total relavant:  3584
+query  43  AP :  0.323219393575 NDGC :  0.842019530909 p5 : 0.4, p10 : 0.3, p20 : 0.2
+query class  7
+total relavant:  303
+query  44  AP :  0.109240726702 NDGC :  0.533223164816 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  7
+total relavant:  303
+query  45  AP :  0.109342414756 NDGC :  0.535810979644 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  15
+total relavant:  231
+query  46  AP :  0.105834719351 NDGC :  0.508476741358 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  24
+total relavant:  138
+query  47  AP :  0.101738646849 NDGC :  0.460112413109 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  18
+total relavant:  208
+query  48  AP :  0.103092171856 NDGC :  0.486133762806 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  3
+total relavant:  563
+query  49  AP :  0.146612702276 NDGC :  0.650773045241 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  13
+total relavant:  257
+query  50  AP :  0.107598526953 NDGC :  0.521648653095 p5 : 0.2, p10 : 0.1, p20 : 0.1
+query class  9
+total relavant:  286
+query  51  AP :  0.107741300816 NDGC :  0.527088023237 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  11
+total relavant:  269
+query  52  AP :  0.108834312588 NDGC :  0.533194413825 p5 : 0.2, p10 : 0.1, p20 : 0.15
+query class  21
+total relavant:  154
+query  53  AP :  0.100553330248 NDGC :  0.462725765759 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  1
+total relavant:  3584
+query  54  AP :  0.32446758596 NDGC :  0.844545263777 p5 : 0.6, p10 : 0.4, p20 : 0.4
+query class  35
+total relavant:  91
+query  55  AP :  0.0977253470344 NDGC :  0.417371532601 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  1
+total relavant:  3584
+query  56  AP :  0.324740573514 NDGC :  0.842616145126 p5 : 0.2, p10 : 0.3, p20 : 0.25
+query class  13
+total relavant:  257
+query  57  AP :  0.107754947006 NDGC :  0.52452661843 p5 : 0.2, p10 : 0.2, p20 : 0.1
+query class  25
+total relavant:  135
+query  58  AP :  0.0993622581764 NDGC :  0.449835562186 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  8
+total relavant:  300
+query  59  AP :  0.110699384231 NDGC :  0.542291884325 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  4
+total relavant:  410
+query  60  AP :  0.120833527293 NDGC :  0.580211233632 p5 : 0.2, p10 : 0.1, p20 : 0.15
+query class  1
+total relavant:  3584
+query  61  AP :  0.323824195233 NDGC :  0.842597956918 p5 : 0.2, p10 : 0.2, p20 : 0.35
+query class  1
+total relavant:  3584
+query  62  AP :  0.32392690645 NDGC :  0.845875874981 p5 : 0.8, p10 : 0.4, p20 : 0.4
+query class  1
+total relavant:  3584
+query  63  AP :  0.322818582867 NDGC :  0.84223457061 p5 : 0.2, p10 : 0.4, p20 : 0.3
+query class  3
+total relavant:  563
+query  64  AP :  0.146441774159 NDGC :  0.650614932113 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  12
+total relavant:  265
+query  65  AP :  0.109903118751 NDGC :  0.525512936825 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  9
+total relavant:  286
+query  66  AP :  0.107522798173 NDGC :  0.526338996046 p5 : 0.2, p10 : 0.1, p20 : 0.1
+query class  6
+total relavant:  362
+query  67  AP :  0.116020820603 NDGC :  0.567681795374 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  1
+total relavant:  3584
+query  68  AP :  0.323173304538 NDGC :  0.845660489013 p5 : 0.6, p10 : 0.4, p20 : 0.45
+query class  6
+total relavant:  362
+query  69  AP :  0.11495293067 NDGC :  0.562761179721 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  1
+total relavant:  3584
+query  70  AP :  0.323388609013 NDGC :  0.844120860385 p5 : 0.4, p10 : 0.4, p20 : 0.3
+query class  3
+total relavant:  563
+query  71  AP :  0.14699266403 NDGC :  0.65359648669 p5 : 0.2, p10 : 0.2, p20 : 0.15
+query class  26
+total relavant:  138
+query  72  AP :  0.0993945202209 NDGC :  0.450056186285 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  1
+total relavant:  3584
+query  73  AP :  0.324401697154 NDGC :  0.845095650486 p5 : 0.6, p10 : 0.4, p20 : 0.3
+query class  31
+total relavant:  107
+query  74  AP :  0.0971276068945 NDGC :  0.422919138996 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  40
+total relavant:  78
+query  75  AP :  0.0971729182514 NDGC :  0.429224067704 p5 : 0.4, p10 : 0.2, p20 : 0.1
+query class  39
+total relavant:  80
+query  76  AP :  0.0973126321967 NDGC :  0.410073687285 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  3
+total relavant:  563
+query  77  AP :  0.147517292617 NDGC :  0.656348088234 p5 : 0.4, p10 : 0.2, p20 : 0.1
+query class  10
+total relavant:  279
+query  78  AP :  0.11048023807 NDGC :  0.526463548079 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  43
+total relavant:  61
+query  79  AP :  0.0955249176236 NDGC :  0.381258518356 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  1
+total relavant:  3584
+query  80  AP :  0.323081269201 NDGC :  0.843621286793 p5 : 0.4, p10 : 0.3, p20 : 0.25
+query class  30
+total relavant:  123
+query  81  AP :  0.0993639502702 NDGC :  0.447168152523 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  39
+total relavant:  80
+query  82  AP :  0.0969341098299 NDGC :  0.402483550212 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  44
+total relavant:  51
+query  83  AP :  0.0945811934781 NDGC :  0.368815378383 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  13
+total relavant:  257
+query  84  AP :  0.107409769221 NDGC :  0.5209987585 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  2
+total relavant:  1042
+query  85  AP :  0.163899014475 NDGC :  0.684732212737 p5 : 0.4, p10 : 0.2, p20 : 0.1
+query class  3
+total relavant:  563
+query  86  AP :  0.14587578489 NDGC :  0.649865140357 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  1
+total relavant:  3584
+query  87  AP :  0.323670018714 NDGC :  0.845048870771 p5 : 0.6, p10 : 0.4, p20 : 0.4
+query class  12
+total relavant:  265
+query  88  AP :  0.111042380352 NDGC :  0.530305725824 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  11
+total relavant:  269
+query  89  AP :  0.107817643964 NDGC :  0.525222296599 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  5
+total relavant:  365
+query  90  AP :  0.112870883062 NDGC :  0.549367184073 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  50
+total relavant:  37
+query  91  AP :  0.0937901311995 NDGC :  0.35031640826 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  1
+total relavant:  3584
+query  92  AP :  0.323626184348 NDGC :  0.843423467019 p5 : 0.8, p10 : 0.6, p20 : 0.3
+query class  7
+total relavant:  303
+query  93  AP :  0.109354393129 NDGC :  0.53320746403 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  1
+total relavant:  3584
+query  94  AP :  0.32217532416 NDGC :  0.840739245063 p5 : 0.2, p10 : 0.2, p20 : 0.2
+query class  5
+total relavant:  365
+query  95  AP :  0.113914507417 NDGC :  0.573636434714 p5 : 0.4, p10 : 0.2, p20 : 0.1
+query class  2
+total relavant:  1042
+query  96  AP :  0.166434195804 NDGC :  0.689297637107 p5 : 0.2, p10 : 0.2, p20 : 0.15
+query class  1
+total relavant:  3584
+query  97  AP :  0.322413685363 NDGC :  0.842231931996 p5 : 0.4, p10 : 0.4, p20 : 0.35
+query class  9
+total relavant:  286
+query  98  AP :  0.108075654304 NDGC :  0.527469609411 p5 : 0.2, p10 : 0.1, p20 : 0.05
+query class  40
+total relavant:  78
+query  99  AP :  0.0975563046235 NDGC :  0.409788209897 p5 : 0.2, p10 : 0.1, p20 : 0.05
+mAP :  0.155167865137
+gmAP :  0.138980257828
+average NDGC :  0.587957414255
+average p5 : 0.264, p10 : 0.169, p20 : 0.122

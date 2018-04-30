@@ -1,0 +1,316 @@
+Loading lda object from : cache/lda.pkl
+Done!
+Vocab Size :  272 Number of Images :  12669
+Dict len:  12669
+12669
+Loading image paths from : cache/paths.pkl
+Done!
+(12669,)
+Vocab Size :  272 Number of Images :  12669
+Dict len:  12669
+Loading svm from : cache/svm.pkl
+done
+class predicted using textual fetures only -  7.0
+query class  9
+query  0  AP :  0.146937374799 NDGC :  0.610637577928 p5 : 0.2, p10 : 0.1, p20 : 0.05
+class predicted using textual fetures only -  6.0
+query class  6
+query  1  AP :  0.188785057701 NDGC :  0.715110099058 p5 : 0.8, p10 : 0.8, p20 : 0.5
+class predicted using textual fetures only -  3.0
+query class  29
+query  2  AP :  0.00578701633016 NDGC :  0.389093690221 p5 : 0.0, p10 : 0.0, p20 : 0.0
+class predicted using textual fetures only -  1.0
+query class  1
+query  3  AP :  0.648551182246 NDGC :  0.952688830205 p5 : 0.8, p10 : 0.9, p20 : 0.9
+class predicted using textual fetures only -  8.0
+query class  8
+query  4  AP :  0.328260982295 NDGC :  0.813788909487 p5 : 1.0, p10 : 1.0, p20 : 0.9
+class predicted using textual fetures only -  1.0
+query class  1
+query  5  AP :  0.608562154915 NDGC :  0.938946257251 p5 : 1.0, p10 : 0.8, p20 : 0.75
+class predicted using textual fetures only -  13.0
+query class  43
+query  6  AP :  0.00248160363481 NDGC :  0.287060472096 p5 : 0.0, p10 : 0.0, p20 : 0.0
+class predicted using textual fetures only -  1.0
+query class  1
+query  7  AP :  0.651836909418 NDGC :  0.951227748355 p5 : 0.6, p10 : 0.7, p20 : 0.75
+class predicted using textual fetures only -  20.0
+query class  20
+query  8  AP :  0.27201761102 NDGC :  0.749846180403 p5 : 0.4, p10 : 0.5, p20 : 0.55
+class predicted using textual fetures only -  1.0
+query class  2
+query  9  AP :  0.245898669743 NDGC :  0.749035940647 p5 : 0.4, p10 : 0.2, p20 : 0.1
+class predicted using textual fetures only -  1.0
+query class  1
+query  10  AP :  0.659884909524 NDGC :  0.956360873207 p5 : 1.0, p10 : 1.0, p20 : 0.95
+class predicted using textual fetures only -  24.0
+query class  25
+query  11  AP :  0.236346170298 NDGC :  0.661459122609 p5 : 0.2, p10 : 0.1, p20 : 0.15
+class predicted using textual fetures only -  3.0
+query class  3
+query  12  AP :  0.29755297186 NDGC :  0.770732799298 p5 : 0.2, p10 : 0.3, p20 : 0.4
+class predicted using textual fetures only -  21.0
+query class  26
+query  13  AP :  0.0500372707682 NDGC :  0.496812810127 p5 : 0.0, p10 : 0.1, p20 : 0.05
+class predicted using textual fetures only -  12.0
+query class  12
+query  14  AP :  0.305943181874 NDGC :  0.739173843126 p5 : 0.2, p10 : 0.2, p20 : 0.15
+class predicted using textual fetures only -  1.0
+query class  1
+query  15  AP :  0.642875329445 NDGC :  0.948929355346 p5 : 0.8, p10 : 0.8, p20 : 0.9
+class predicted using textual fetures only -  1.0
+query class  1
+query  16  AP :  0.604125744278 NDGC :  0.940543744628 p5 : 1.0, p10 : 0.9, p20 : 0.85
+class predicted using textual fetures only -  3.0
+query class  19
+query  17  AP :  0.0096211958907 NDGC :  0.416511989426 p5 : 0.0, p10 : 0.0, p20 : 0.0
+class predicted using textual fetures only -  3.0
+query class  3
+query  18  AP :  0.294225158583 NDGC :  0.761983552039 p5 : 0.4, p10 : 0.2, p20 : 0.25
+class predicted using textual fetures only -  15.0
+query class  15
+query  19  AP :  0.233648541286 NDGC :  0.728262608344 p5 : 0.6, p10 : 0.4, p20 : 0.35
+class predicted using textual fetures only -  7.0
+query class  7
+query  20  AP :  0.190073273759 NDGC :  0.669275714879 p5 : 0.4, p10 : 0.2, p20 : 0.15
+class predicted using textual fetures only -  5.0
+query class  5
+query  21  AP :  0.234767028061 NDGC :  0.739342968361 p5 : 0.6, p10 : 0.4, p20 : 0.4
+class predicted using textual fetures only -  1.0
+query class  1
+query  22  AP :  0.684252981462 NDGC :  0.954202375891 p5 : 0.8, p10 : 0.8, p20 : 0.7
+class predicted using textual fetures only -  14.0
+query class  14
+query  23  AP :  0.362406174621 NDGC :  0.796199047912 p5 : 0.4, p10 : 0.3, p20 : 0.4
+class predicted using textual fetures only -  23.0
+query class  33
+query  24  AP :  0.013560666789 NDGC :  0.387524788453 p5 : 0.0, p10 : 0.0, p20 : 0.0
+class predicted using textual fetures only -  24.0
+query class  24
+query  25  AP :  0.303679060564 NDGC :  0.702259139204 p5 : 0.2, p10 : 0.1, p20 : 0.1
+class predicted using textual fetures only -  36.0
+query class  38
+query  26  AP :  0.201486760877 NDGC :  0.609401465932 p5 : 0.4, p10 : 0.2, p20 : 0.1
+class predicted using textual fetures only -  10.0
+query class  49
+query  27  AP :  0.001289405657 NDGC :  0.241701946778 p5 : 0.0, p10 : 0.0, p20 : 0.0
+class predicted using textual fetures only -  5.0
+query class  5
+query  28  AP :  0.176032772823 NDGC :  0.673771571488 p5 : 0.4, p10 : 0.2, p20 : 0.3
+class predicted using textual fetures only -  1.0
+query class  2
+query  29  AP :  0.246155201882 NDGC :  0.750364032264 p5 : 0.4, p10 : 0.4, p20 : 0.3
+class predicted using textual fetures only -  6.0
+query class  6
+query  30  AP :  0.295710125352 NDGC :  0.778576341352 p5 : 0.6, p10 : 0.8, p20 : 0.6
+class predicted using textual fetures only -  1.0
+query class  1
+query  31  AP :  0.606008865817 NDGC :  0.942815519881 p5 : 1.0, p10 : 1.0, p20 : 0.9
+class predicted using textual fetures only -  12.0
+query class  \N
+query  32  AP :  0.0023023097972 NDGC :  0.266701942361 p5 : 0.0, p10 : 0.0, p20 : 0.0
+class predicted using textual fetures only -  10.0
+query class  10
+query  33  AP :  0.342541392332 NDGC :  0.788667238216 p5 : 0.4, p10 : 0.2, p20 : 0.5
+class predicted using textual fetures only -  8.0
+query class  8
+query  34  AP :  0.224449458034 NDGC :  0.731005125895 p5 : 0.4, p10 : 0.6, p20 : 0.5
+class predicted using textual fetures only -  3.0
+query class  50
+query  35  AP :  0.00148425815002 NDGC :  0.239220753655 p5 : 0.0, p10 : 0.0, p20 : 0.0
+class predicted using textual fetures only -  17.0
+query class  46
+query  36  AP :  0.00174050680822 NDGC :  0.253279109858 p5 : 0.0, p10 : 0.0, p20 : 0.0
+class predicted using textual fetures only -  1.0
+query class  1
+query  37  AP :  0.638444267743 NDGC :  0.950613648321 p5 : 1.0, p10 : 1.0, p20 : 0.9
+class predicted using textual fetures only -  8.0
+query class  8
+query  38  AP :  0.313676921264 NDGC :  0.770142763018 p5 : 0.6, p10 : 0.3, p20 : 0.2
+class predicted using textual fetures only -  12.0
+query class  12
+query  39  AP :  0.238822027166 NDGC :  0.732628599665 p5 : 0.8, p10 : 0.4, p20 : 0.5
+class predicted using textual fetures only -  1.0
+query class  1
+query  40  AP :  0.60247691127 NDGC :  0.93845305026 p5 : 1.0, p10 : 1.0, p20 : 0.95
+class predicted using textual fetures only -  31.0
+query class  31
+query  41  AP :  0.279888532714 NDGC :  0.725208049944 p5 : 0.6, p10 : 0.5, p20 : 0.6
+class predicted using textual fetures only -  1.0
+query class  1
+query  42  AP :  0.600117372568 NDGC :  0.940002515537 p5 : 1.0, p10 : 0.9, p20 : 0.9
+class predicted using textual fetures only -  24.0
+query class  24
+query  43  AP :  0.229661773665 NDGC :  0.667775187393 p5 : 0.2, p10 : 0.2, p20 : 0.3
+class predicted using textual fetures only -  14.0
+query class  14
+query  44  AP :  0.208220009242 NDGC :  0.703155916256 p5 : 0.6, p10 : 0.5, p20 : 0.35
+class predicted using textual fetures only -  7.0
+query class  9
+query  45  AP :  0.170715655163 NDGC :  0.661080154588 p5 : 0.6, p10 : 0.3, p20 : 0.3
+class predicted using textual fetures only -  1.0
+query class  1
+query  46  AP :  0.673429346225 NDGC :  0.947460689081 p5 : 0.6, p10 : 0.5, p20 : 0.6
+class predicted using textual fetures only -  28.0
+query class  28
+query  47  AP :  0.253007242565 NDGC :  0.663565636479 p5 : 0.2, p10 : 0.1, p20 : 0.1
+class predicted using textual fetures only -  1.0
+query class  1
+query  48  AP :  0.607567054231 NDGC :  0.943320661784 p5 : 1.0, p10 : 0.9, p20 : 0.95
+class predicted using textual fetures only -  10.0
+query class  11
+query  49  AP :  0.234652903411 NDGC :  0.73853532756 p5 : 0.6, p10 : 0.6, p20 : 0.35
+class predicted using textual fetures only -  1.0
+query class  1
+query  50  AP :  0.611561499065 NDGC :  0.94351039804 p5 : 1.0, p10 : 0.9, p20 : 0.9
+class predicted using textual fetures only -  23.0
+query class  33
+query  51  AP :  0.0138880870691 NDGC :  0.387253187969 p5 : 0.0, p10 : 0.0, p20 : 0.0
+class predicted using textual fetures only -  1.0
+query class  1
+query  52  AP :  0.658351977374 NDGC :  0.953630792726 p5 : 1.0, p10 : 0.9, p20 : 0.8
+class predicted using textual fetures only -  15.0
+query class  32
+query  53  AP :  0.00368465458295 NDGC :  0.342176995313 p5 : 0.0, p10 : 0.0, p20 : 0.0
+class predicted using textual fetures only -  15.0
+query class  15
+query  54  AP :  0.226422461453 NDGC :  0.720420669622 p5 : 0.6, p10 : 0.4, p20 : 0.35
+class predicted using textual fetures only -  12.0
+query class  12
+query  55  AP :  0.321924917653 NDGC :  0.811860178144 p5 : 1.0, p10 : 0.9, p20 : 0.8
+class predicted using textual fetures only -  8.0
+query class  8
+query  56  AP :  0.305310893674 NDGC :  0.768521787095 p5 : 0.4, p10 : 0.5, p20 : 0.6
+class predicted using textual fetures only -  1.0
+query class  1
+query  57  AP :  0.606913046334 NDGC :  0.940896073634 p5 : 1.0, p10 : 1.0, p20 : 0.9
+class predicted using textual fetures only -  10.0
+query class  49
+query  58  AP :  0.0012894028523 NDGC :  0.241700998674 p5 : 0.0, p10 : 0.0, p20 : 0.0
+class predicted using textual fetures only -  1.0
+query class  1
+query  59  AP :  0.644766830014 NDGC :  0.951502241581 p5 : 1.0, p10 : 0.8, p20 : 0.9
+class predicted using textual fetures only -  1.0
+query class  1
+query  60  AP :  0.664478965147 NDGC :  0.947622159959 p5 : 0.8, p10 : 0.7, p20 : 0.75
+class predicted using textual fetures only -  15.0
+query class  32
+query  61  AP :  0.00368350280599 NDGC :  0.342204238018 p5 : 0.0, p10 : 0.0, p20 : 0.0
+class predicted using textual fetures only -  10.0
+query class  11
+query  62  AP :  0.246273445552 NDGC :  0.711841056342 p5 : 0.2, p10 : 0.2, p20 : 0.25
+class predicted using textual fetures only -  1.0
+query class  1
+query  63  AP :  0.657305608982 NDGC :  0.954155623823 p5 : 1.0, p10 : 0.9, p20 : 0.95
+class predicted using textual fetures only -  1.0
+query class  2
+query  64  AP :  0.244883109205 NDGC :  0.74870882334 p5 : 0.2, p10 : 0.2, p20 : 0.15
+class predicted using textual fetures only -  1.0
+query class  1
+query  65  AP :  0.610480795657 NDGC :  0.944642344536 p5 : 1.0, p10 : 1.0, p20 : 0.95
+class predicted using textual fetures only -  8.0
+query class  8
+query  66  AP :  0.313545721443 NDGC :  0.782647682785 p5 : 0.6, p10 : 0.8, p20 : 0.8
+class predicted using textual fetures only -  6.0
+query class  22
+query  67  AP :  0.00677865235836 NDGC :  0.380186961427 p5 : 0.0, p10 : 0.0, p20 : 0.0
+class predicted using textual fetures only -  5.0
+query class  5
+query  68  AP :  0.251093127059 NDGC :  0.721069650862 p5 : 0.2, p10 : 0.1, p20 : 0.1
+class predicted using textual fetures only -  1.0
+query class  1
+query  69  AP :  0.606623429743 NDGC :  0.938309026007 p5 : 0.8, p10 : 0.8, p20 : 0.85
+class predicted using textual fetures only -  1.0
+query class  1
+query  70  AP :  0.609126300337 NDGC :  0.941167338661 p5 : 0.8, p10 : 0.9, p20 : 0.9
+class predicted using textual fetures only -  8.0
+query class  8
+query  71  AP :  0.213728623781 NDGC :  0.714764847015 p5 : 0.8, p10 : 0.5, p20 : 0.4
+class predicted using textual fetures only -  14.0
+query class  18
+query  72  AP :  0.136694207146 NDGC :  0.556369112529 p5 : 0.2, p10 : 0.1, p20 : 0.05
+class predicted using textual fetures only -  17.0
+query class  17
+query  73  AP :  0.340195263912 NDGC :  0.810775780545 p5 : 1.0, p10 : 0.8, p20 : 0.7
+class predicted using textual fetures only -  21.0
+query class  21
+query  74  AP :  0.263055863416 NDGC :  0.741181102687 p5 : 0.6, p10 : 0.5, p20 : 0.45
+class predicted using textual fetures only -  1.0
+query class  1
+query  75  AP :  0.605718600557 NDGC :  0.942852926446 p5 : 1.0, p10 : 1.0, p20 : 1.0
+class predicted using textual fetures only -  1.0
+query class  1
+query  76  AP :  0.646351364927 NDGC :  0.952475466575 p5 : 1.0, p10 : 0.9, p20 : 0.95
+class predicted using textual fetures only -  1.0
+query class  1
+query  77  AP :  0.668036371112 NDGC :  0.953611392994 p5 : 0.4, p10 : 0.7, p20 : 0.85
+class predicted using textual fetures only -  10.0
+query class  11
+query  78  AP :  0.20921718594 NDGC :  0.699246636189 p5 : 0.6, p10 : 0.4, p20 : 0.25
+class predicted using textual fetures only -  4.0
+query class  4
+query  79  AP :  0.25329983856 NDGC :  0.739118638022 p5 : 0.4, p10 : 0.4, p20 : 0.3
+class predicted using textual fetures only -  15.0
+query class  15
+query  80  AP :  0.230350220828 NDGC :  0.722766024834 p5 : 0.8, p10 : 0.4, p20 : 0.35
+class predicted using textual fetures only -  3.0
+query class  3
+query  81  AP :  0.326583588316 NDGC :  0.789522817846 p5 : 0.8, p10 : 0.6, p20 : 0.45
+class predicted using textual fetures only -  1.0
+query class  1
+query  82  AP :  0.604596474707 NDGC :  0.940762455097 p5 : 0.8, p10 : 0.9, p20 : 0.9
+class predicted using textual fetures only -  3.0
+query class  3
+query  83  AP :  0.241715282164 NDGC :  0.7627373812 p5 : 1.0, p10 : 1.0, p20 : 0.6
+class predicted using textual fetures only -  1.0
+query class  1
+query  84  AP :  0.613030325067 NDGC :  0.945005850219 p5 : 1.0, p10 : 0.9, p20 : 0.95
+class predicted using textual fetures only -  1.0
+query class  1
+query  85  AP :  0.69892506617 NDGC :  0.957896274652 p5 : 1.0, p10 : 0.9, p20 : 0.75
+class predicted using textual fetures only -  1.0
+query class  1
+query  86  AP :  0.606926843483 NDGC :  0.938578992641 p5 : 0.8, p10 : 0.7, p20 : 0.75
+class predicted using textual fetures only -  1.0
+query class  1
+query  87  AP :  0.668168550578 NDGC :  0.954868800224 p5 : 0.8, p10 : 0.7, p20 : 0.8
+class predicted using textual fetures only -  1.0
+query class  2
+query  88  AP :  0.244637264673 NDGC :  0.752073262609 p5 : 0.2, p10 : 0.2, p20 : 0.2
+class predicted using textual fetures only -  1.0
+query class  1
+query  89  AP :  0.665832274434 NDGC :  0.949810189532 p5 : 1.0, p10 : 0.8, p20 : 0.7
+class predicted using textual fetures only -  21.0
+query class  21
+query  90  AP :  0.291349393902 NDGC :  0.712348882336 p5 : 0.2, p10 : 0.2, p20 : 0.2
+class predicted using textual fetures only -  10.0
+query class  10
+query  91  AP :  0.287004180287 NDGC :  0.781236034888 p5 : 1.0, p10 : 0.7, p20 : 0.6
+class predicted using textual fetures only -  3.0
+query class  19
+query  92  AP :  0.00961349670819 NDGC :  0.416529390269 p5 : 0.0, p10 : 0.0, p20 : 0.0
+class predicted using textual fetures only -  17.0
+query class  17
+query  93  AP :  0.359539214173 NDGC :  0.797416081725 p5 : 0.6, p10 : 0.6, p20 : 0.65
+class predicted using textual fetures only -  7.0
+query class  9
+query  94  AP :  0.174186241056 NDGC :  0.628344215208 p5 : 0.2, p10 : 0.1, p20 : 0.05
+class predicted using textual fetures only -  15.0
+query class  32
+query  95  AP :  0.00368400304495 NDGC :  0.342210975391 p5 : 0.0, p10 : 0.0, p20 : 0.0
+class predicted using textual fetures only -  17.0
+query class  \N
+query  96  AP :  0.00202923953484 NDGC :  0.262623381938 p5 : 0.0, p10 : 0.0, p20 : 0.0
+class predicted using textual fetures only -  3.0
+query class  29
+query  97  AP :  0.00578849478869 NDGC :  0.389084179337 p5 : 0.0, p10 : 0.0, p20 : 0.0
+class predicted using textual fetures only -  21.0
+query class  26
+query  98  AP :  0.0573598477276 NDGC :  0.500750550831 p5 : 0.2, p10 : 0.1, p20 : 0.05
+class predicted using textual fetures only -  24.0
+query class  25
+query  99  AP :  0.240089842048 NDGC :  0.66821900446 p5 : 0.2, p10 : 0.1, p20 : 0.15
+mAP :  0.326480928873
+gmAP :  0.159148690995
+average NDGC :  0.722816665629
+average p5 : 0.526, p10 : 0.466, p20 : 0.4455
