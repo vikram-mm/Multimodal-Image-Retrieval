@@ -3,10 +3,8 @@ In this work, a multi-modal medical image retrieval approach that incorporates b
 
 
 ## File descriptions
-
 | File | Description |
 |------|--------------|
-
 |step1_image.py| Used for generating the visual bag of words|
 |tf_kmeans.py| Tensorflow K-Means used in step1_image.py|
 |lda_image.py| Computes the latent visual topics|
@@ -22,5 +20,3 @@ In this work, a multi-modal medical image retrieval approach that incorporates b
 |evaluate_vgg.py	| Used to compute the performance by using just the co-occurence matrix compressed using VGG|
 |evaluate_late_fusion.py	| The late fusion approach and its evaluation|
 |other util code | gen_path_list.py, irma_reader.py|
-
-
