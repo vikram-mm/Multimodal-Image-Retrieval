@@ -12,8 +12,6 @@ def auc(result,total_relavent):
             precision = rel_so_far/(i+1)
             recall = rel_so_far/total_relavent
             x = int(recall*100 // 10)
-            # print x
-            # print precision,' ',recall,' ',x
             while(x>=0 and x<11 and ans[x]==0):
                 ans[x] = precision
                 x = x-1

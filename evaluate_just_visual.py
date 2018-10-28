@@ -21,7 +21,6 @@ def evaluate(num_queries=10):
         else:
             class_count[c] += 1
 
-    # print class_count
     get_class = {}
     path = "dataset/ImageCLEFmed2009_train.02/"
 
@@ -29,7 +28,6 @@ def evaluate(num_queries=10):
 
         get_class[path+str(img_id)] = img_class
     
-    # print get_class
 
     data_path = os.path.join('dataset','ImageCLEFmed2009_train.02')
     model = lda_image(data_path)
@@ -51,7 +49,6 @@ def evaluate(num_queries=10):
         print 'total relavant: ', class_count[query_class]
         simplified_result = []
         for x in result:
-            # print x[1], get_class[x[1]]
             try:
                 if(get_class[x[1]]==query_class):
                     simplified_result.append(1)
@@ -61,7 +58,6 @@ def evaluate(num_queries=10):
 
                 continue
 
-        # print simplified_result
         
         AP = auc(simplified_result,class_count[query_class])
         print 'query ', i, ' AP : ', AP

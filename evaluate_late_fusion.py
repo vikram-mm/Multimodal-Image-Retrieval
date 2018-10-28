@@ -20,7 +20,6 @@ vistex = get_vistex()
 ipath_cache_file = os.path.join('cache', 'paths.pkl')
 
 if os.path.isfile(ipath_cache_file):
-    # print('Loading image paths from : ' + ipath_cache_file)
     with open(ipath_cache_file, 'rb') as f:
         ipath = cPickle.load(f)
 
@@ -36,7 +35,6 @@ def vistex_query():
         result.append((dis,ipath[i][:-4]))
 
     result = sorted(result)
-    # print result
     return result,ipath[idx][:-4]
 
 def one_hot(textual_features,vocab_size):
@@ -90,22 +88,17 @@ def evaluate(num_queries=10):
         print 'class predicted using textual fetures only - ', pred_class
 
         for j,x in enumerate(result):
-            # print x[1], get_class[x[1]]
             try:
 
                 if get_class[x[1]] == '\\N':
                     actual_class=0
                 else:
                     actual_class = int(get_class[x[1]])
-                # print get_class[x[1]]
-                # print result[i][0]
                 x = list(x)
                 x[0]+= 0.01*((actual_class-pred_class)**2)
                 result[j] = tuple(x)
-                # print result[i][0]
             except Exception as e:
 
-                # print e
                 continue
 
 
@@ -117,7 +110,6 @@ def evaluate(num_queries=10):
         simplified_result = []
         
         for x in result:
-            # print x[1], get_class[x[1]]
             try:
                 if(get_class[x[1]]==query_class):
                     simplified_result.append(1)
@@ -127,7 +119,6 @@ def evaluate(num_queries=10):
 
                 continue
 
-        # print simplified_result
         
         AP = auc(simplified_result,class_count[query_class])
         ndgc = calc_ndgc(simplified_result)

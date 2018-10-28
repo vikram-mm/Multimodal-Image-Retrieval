@@ -21,12 +21,6 @@ def get_vistex():
 
     for i,doc_topics in enumerate(model.doc_topics):
 
-        # print doc_topics
-        # exit(0)
-
-        # if(i==10):
-        #     break
-        # print len(vistex)
         try:
             textual_words = textual_data[ipath[i][:-4]]
         except:
@@ -34,9 +28,6 @@ def get_vistex():
             continue
         feature = np.zeros((textual_vocab,model.num_topics))
 
-        # for t in textual_words:
-        #     for d,topic in enumerate(doc_topics):
-        #         feature[t,d] = topic
         feature[textual_words,:] = doc_topics
 
         vistex.append(feature)

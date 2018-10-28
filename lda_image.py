@@ -53,7 +53,6 @@ class lda_image():
             return model
        
        
-        # print self.lda_model.topic_word_[0]
         
 
     def query(self,idx):
@@ -90,11 +89,7 @@ class lda_image():
 
                 
                 result = sorted(result)
-                
-                #print result
 
-                # if(i==20):
-                #     break
         
         for i,x in enumerate(result):
 
@@ -107,14 +102,12 @@ class lda_image():
         ipath_cache_file = os.path.join('cache', 'paths.pkl')
 
         if os.path.isfile(ipath_cache_file):
-            # print('Loading image paths from : ' + ipath_cache_file)
             with open(ipath_cache_file, 'rb') as f:
                 ipath = cPickle.load(f)
             # print 'Done!'
         
         idx = np.random.randint(0,len(self.doc_topics))
         img  = cv2.imread(ipath[idx])
-        # query_topics = self.lda_model.transform(np.expand_dims(self.histogram[idx],axis = 0),500)
         query_topics = self.doc_topics[idx]
         result = []
         for i,doc_topics in enumerate(self.doc_topics):

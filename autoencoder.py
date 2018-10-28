@@ -15,19 +15,9 @@ def log(message,file_path=os.path.join('ae_logs','ae_log.txt')):
 
 def autoencoder(inputs):
 
-	# encoder
-	# 272 x 100 x 1  ->  136 x 50 x 32
-	# 136 x 50 x 32  ->  68 x 25 x 16
-	# 68 x 25 x 16   ->  34 x 13 x 1
 	encoder_1 = lays.conv2d(inputs, 32, [2, 2], stride=2, padding='SAME')
 	encoder_2 = lays.conv2d(encoder_1, 16, [2, 2], stride=2, padding='SAME')
 	compressed = lays.conv2d(encoder_2, 1, [2, 2], stride=2, padding='SAME')
-	# print compressed
-	# exit(0)
-	# decoder
-	# 34 x 13 x 1    ->  68 x 25 x 16  
-	# 68 x 25 x 16  ->  136 x 50 x 32
-	# 136 x 50 x 32  ->  272 x 100 x 1
 	decoder_1 = lays.conv2d_transpose(compressed, 16, [2, 2], stride=2, padding='SAME')
 	decoder_2 = lays.conv2d_transpose(decoder_1, 32, [2, 2], stride=2, padding='SAME')
 	decoder_3 = lays.conv2d_transpose(decoder_2, 1, [2, 2], stride=2, padding='SAME', activation_fn=tf.nn.tanh)
@@ -71,15 +61,7 @@ if __name__=='__main__':
 
 	    train_writer = tf.summary.FileWriter("ae_logs/",sess.graph)
 
-	    # Run the initializer
 	    sess.run(init)
-
-	    
-
-	    # print 'restoring session'
-	    # saver.restore(sess, "ae_logs/save.ckpt")
-	    # print 'done loading'
-	    # exit(0) 
 
 	    i = 0
 	    print 'started training'
@@ -90,9 +72,6 @@ if __name__=='__main__':
 	            i+=1
 
 	            batch_x = np.expand_dims(batch_x,-1)
-	            # print batch_x.shape
-
-	            # Run optimization op (backprop)
 	            _,summary = sess.run([train_op,merged], feed_dict={X: batch_x})
 	            train_writer.add_summary(summary, i)
 	            
